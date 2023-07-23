@@ -15,4 +15,4 @@ const Price = ({ handleChange, }) => {
     )
 }
 
-export default Price
+export default Price;
