@@ -6,6 +6,16 @@ const Products = () => {
         <>
             <section className="card-container">
                 <Product/>
+                <Product/>
+                <Product/>
+                <Product/>
+                <Product/>
+                <Product/>
+                <Product/>
+                <Product/>
+                <Product/>
+                <Product/>
+                <Product/>
             </section>
         </>
     )
